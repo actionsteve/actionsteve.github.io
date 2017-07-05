@@ -34,29 +34,29 @@ We reported the potential reach of the street teams among relevant populations a
 
 **Women on their way to work.**
 
-![alt text][https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time1_graph.png]
-![alt text][time1_map.png]
+![alt text](https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time1_graph.png?raw=true)
+![alt text](https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time1_map.png?raw=true)
 
 From our subset of zip codes with highest female ridership, we identified the York St [F line], 125th St [2,3 line], and 125th St [1 line] as top three stations thirteen out of fifteen (three ranks a day, five weekdays a week). For a given day's top rankings, we would divide the team to those three stations in the morning, hopefully reaching more women on their way to work.
 
 **Tech employees during work hours.**
 
-![alt text][https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time2_graph.png]
-![alt text][https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time2_map.png]
+![alt text](https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time2_graph.png?raw=true)
+![alt text](https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time2_map.png?raw=true)
 
 After the morning commute, throughout lunchtime, and just before the workday is finished, the street teams would move to the top locations to reach tech employees and academics. Fortunately, our data reveal some overlap with the morning posts. The top three stations are consistantly York St [F], 125th St [2,3], and Hoyt-Schermerhorn [A,C,G]. We would shift our teams to these locations as necessary.
 
 **Women on their way home.**
 
-![alt text][https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time3_graph.png]
-![alt text][https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time3_map.png]
+![alt text](https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time3_graph.png?raw=true)
+![alt text](https://github.com/actionsteve/actionsteve.github.io/blob/master/images/time3_map.png?raw=true)
 
 Finally, we identified top locations where women get on the train to head home from work. There was more distribution of top stations for this category. Canal St [J,N,Q,R,W,Z,6] rose to the top, with York St [F] and 125th St [2,3] remaining prevelant. Prince St [N,R,W], Jay St [A,C,F], High St [A,C], and Hoyt-Schermerhorn [A,C,G] also made the list.
 
 ## Final Report?
 Taken together, we are able to create a final report, recommending when and where the teams should be distributed. Take Monday's report, for example:
 
-![alt text][https://github.com/actionsteve/actionsteve.github.io/blob/master/images/monday_schedule.png]
+![alt text](https://github.com/actionsteve/actionsteve.github.io/blob/master/images/monday_schedule.png?raw=true)
 
 On Monday morning, we would deploy Street Team 1 to York St [F], Street Team 2 to 125th St [2,3], and Street Team 3 to 125th St [1] in the morning, hoping to catch women on their way to work.
 
@@ -64,9 +64,7 @@ Around lunchtime, Street Team 1 would remain at York St [F], and Street Team 2 w
 
 Finally, Street Teams 1 and 2 would move to Prince St [N,R,W] and Canal St [J,N,Q,R,W,Z,6], while Team 3 would remain at Hoyt-Schermerhorn [A,C,G]. Here, the teams would catch women on their way home from work.
 
-
-
-#What are our next steps and future considerations?
+## What are our next steps and future considerations?
 
 * **Did we limit our scope too narrowly?**
 We made limiting assumptions based on census data and tech/university addresses. Perhaps we are unwittingly ignoring key locations of interest. We should compare our results to those made using alternative strategies.
@@ -82,12 +80,3 @@ Reasonable arguements can be made as to why certain times of day are more effect
 
 * **How to distribute the team?**
 We broadly recommend dividing the team into three groups to work at the top stations at a given time. Depending on relative traffic of these stations, the teams could be distributed proportionately to expected traffic. Similarly, we should optimize time spent working by minimizing distance between a worker's shifts.
-
-
-[time1_graph]: /time1_graph
-[time1_map]: /time1_map
-[time2_graph]: /time2_graph
-[time2_map]: /time2_map
-[time3_graph]: /time3_graph
-[time3_map]: /time3_map
-[monday_schedule]: /monday_schedule
