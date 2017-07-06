@@ -3,7 +3,7 @@ layout: post
 title: Project Benson
 ---
 
-Learning data science at Metis is a project-driven experience. Over the twelve week program, we'll tackle five real world projects that build upon our experiences in the classroom. Follow along here, as a blog about this journey.
+Learning data science at Metis is a project-driven experience. Over the twelve week program, we'll tackle five real world projects that build upon our experiences in the classroom. Follow along here, as I blog about this journey.
 
 ## What is the challenge?
 
